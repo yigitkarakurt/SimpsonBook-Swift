@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0065467528EDFEAA0061FA86 /* detailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0065467428EDFEAA0061FA86 /* detailsVC.swift */; };
+		0065467728EE0B060061FA86 /* Simpson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0065467628EE0B060061FA86 /* Simpson.swift */; };
 		00A3497B28EDFBCD00A31C30 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00A3497A28EDFBCD00A31C30 /* AppDelegate.swift */; };
 		00A3497D28EDFBCD00A31C30 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00A3497C28EDFBCD00A31C30 /* SceneDelegate.swift */; };
 		00A3497F28EDFBCD00A31C30 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00A3497E28EDFBCD00A31C30 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		0065467428EDFEAA0061FA86 /* detailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = detailsVC.swift; sourceTree = "<group>"; };
+		0065467628EE0B060061FA86 /* Simpson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Simpson.swift; sourceTree = "<group>"; };
 		00A3497728EDFBCD00A31C30 /* SimpsonBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpsonBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		00A3497A28EDFBCD00A31C30 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		00A3497C28EDFBCD00A31C30 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				00A3497C28EDFBCD00A31C30 /* SceneDelegate.swift */,
 				00A3497E28EDFBCD00A31C30 /* ViewController.swift */,
 				0065467428EDFEAA0061FA86 /* detailsVC.swift */,
+				0065467628EE0B060061FA86 /* Simpson.swift */,
 				00A3498028EDFBCD00A31C30 /* Main.storyboard */,
 				00A3498328EDFBCD00A31C30 /* Assets.xcassets */,
 				00A3498528EDFBCD00A31C30 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				0065467528EDFEAA0061FA86 /* detailsVC.swift in Sources */,
 				00A3497B28EDFBCD00A31C30 /* AppDelegate.swift in Sources */,
 				00A3497D28EDFBCD00A31C30 /* SceneDelegate.swift in Sources */,
+				0065467728EE0B060061FA86 /* Simpson.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

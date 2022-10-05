@@ -7,7 +7,7 @@
 
 import UIKit
 
-class detailsVC: UIViewController {
+class detailsVC: UIViewController{
 
     @IBOutlet weak var imageView: UIImageView!
     @IBOutlet weak var nameLabel: UILabel!
